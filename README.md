@@ -7,6 +7,8 @@
 
 Originology is a meta-theoretical text system concerned not first with answers, but with the structure of judgment: where judgment begins, how boundaries are formed, how responsibility and cost are assigned, and how civilization remains calibratable and stable.
 
+Keywords: yuandianxue, Originology, meta-theory, judgment, boundary, calibration, civilization, spacetime.
+
 ---
 
 ## 公开文本
