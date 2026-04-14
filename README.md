@@ -1,4 +1,5 @@
-# 原点学 Originology 作者：郭康
+# 原点学 Originology
+作者：郭康
 
 原点学（Originology）公开文本仓库。
 
@@ -72,16 +73,11 @@ Keywords: yuandianxue, Originology, meta-theory, judgment, boundary, calibration
 现阶段未公开。  
 其与《人为人》互为照应：前者偏向“有限主体”的在场问题，后者偏向“人为人”的现实结构问题。
 
-对应文件：  
-`00《1+1=2：论有限主体的在场》底层文稿 作者定稿版_2026-02-03.pdf`
-
 ### 7. 《原点学与战争》
 
 原点学高压现实展开文本。  
 用于处理原点学进入战争、对抗、失稳、高压决策与文明极限场景时的现实结构问题。
 
-对应文件：  
-`07《原点学与战争》高压现实展开 作者定稿版 2026-04-04.pdf`
 
 ### 8. 《原点学与地外文明》
 
@@ -89,8 +85,6 @@ Keywords: yuandianxue, Originology, meta-theory, judgment, boundary, calibration
 现阶段未完待续。  
 用于处理原点学进入地外文明、跨文明接触与更高层级文明判断时的可能结构。
 
-对应文件：  
-`08《原点学与地外文明》极端延展 未完待续.pdf`
 
 ### 9. 《原点学与智能生命》
 
@@ -98,8 +92,6 @@ Keywords: yuandianxue, Originology, meta-theory, judgment, boundary, calibration
 现阶段未完待续。  
 用于处理原点学进入智能生命、非人主体、可校与文明边界问题时的可能结构。
 
-对应文件：  
-`09《原点学与智能生命》极端延展 未完待续.pdf`
 
 ### 10. 《原点学与思想》
 
@@ -107,8 +99,6 @@ Keywords: yuandianxue, Originology, meta-theory, judgment, boundary, calibration
 现阶段未完待续。  
 用于处理原点学与诸子以来思想传统、答案归属、旧事重估及思想史位置之关系。
 
-对应文件：  
-`10《原点学与思想》极端延展 未完待续.pdf`
 
 ---
 
@@ -125,5 +115,5 @@ Keywords: yuandianxue, Originology, meta-theory, judgment, boundary, calibration
 
 1. 本仓库以现存文件标题、编号、版本与日期为准。  
 2. “公开文本”与“未公开文本 / 后续文本”系按当前状态区分，不代表体系已经终止。  
-3. 未公开文本列出其标题与阶段位置，仅用于说明原点学当前整体结构。  
+3. 未公开文本现阶段仅保留标题与结构位置，不提供文件、版本与内容。  
 4. 原点学现阶段公开文本并非终点，后续仍可能继续展开。
