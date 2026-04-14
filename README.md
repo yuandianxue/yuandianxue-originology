@@ -44,7 +44,7 @@ Keywords: yuandianxue, Originology, meta-theory, judgment, boundary, calibration
 用于分明原点、主体、关系三者之位置，并说明三者失位何以导向失序。
 
 对应文件：  
-`04《原点、主体和关系》中层展开 作者定稿版 2026-03-16.pdf`
+`04《原点、主体与关系》中层展开 作者定稿版 2026-03-16.pdf`
 
 ### 5. 《原点学：元理论总纲》
 
