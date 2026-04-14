@@ -38,7 +38,7 @@ Keywords: yuandianxue, Originology, meta-theory, judgment, boundary, calibration
 对应文件：  
 `03《文明成立假说：原点学》中层展开 正式公开定稿版 2026-03-07.pdf`
 
-### 4. 《原点、主体和关系》
+### 4. 《原点、主体与关系》
 
 原点学中层骨架文本。  
 用于分明原点、主体、关系三者之位置，并说明三者失位何以导向失序。
